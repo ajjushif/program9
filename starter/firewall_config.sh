@@ -16,10 +16,3 @@
 
 
 # TODO 5: Permanently open TCP port 3000
-
-
-# TODO 6: Reload the firewall
-
-
-exit 0
-
